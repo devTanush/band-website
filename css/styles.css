@@ -21,6 +21,7 @@ body {
     background-color: black;
     float: left;
     margin-right: 10px;
+    border: grey solid 2px;
 }
 
 .about {
